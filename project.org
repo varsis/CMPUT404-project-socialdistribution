@@ -137,7 +137,7 @@
    - [ ] implement a restful API for http://service/post/postid
      - a PUT should insert/update a post
      - a POST should get the post 
-     - a GET should get the post
+     - a GET should create the post
    - [ ] FOAF verification involves the 3 hosts of the 3 friends
      A->B->C assuming A B C reside on different hosts.
    - [ ] Allow users to accept or reject friend requests
